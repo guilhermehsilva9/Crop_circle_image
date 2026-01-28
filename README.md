@@ -40,5 +40,5 @@ Input:
 Output:
 
 <p align="center">
-  <img src="circular_crop_result.png" width="300">
+  <img src="circular_crop_result.png" width="200">
 </p>
